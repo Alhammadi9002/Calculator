@@ -1,0 +1,30 @@
+
+#result{
+    background-color: transparent;
+    border: none;
+    border: 2px solid black; 
+    padding: 10px;
+    font-size: 20px;
+}
+
+input[type="button"]{
+    background-color: green;
+    border: 2px solid black;
+    width: 100%;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+
+section {
+    border: 3px solid black;
+    width: max-content;
+    border-radius: 20px;
+    padding: 10px;
+    height: 400px;
+}
+
+section table{
+    position: relative;
+    bottom: 0;
+}
